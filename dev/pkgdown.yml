@@ -3,7 +3,7 @@ pkgdown: 2.1.1.9000
 pkgdown_sha: 7a6ffe4c64e7143ea31031cc8d5a0ba8359db5af
 articles:
   DBItest: DBItest.html
-last_built: 2024-11-28T04:21Z
+last_built: 2024-11-28T10:22Z
 urls:
   reference: https://dbitest.r-dbi.org/reference
   article: https://dbitest.r-dbi.org/articles
