@@ -1,5 +1,12 @@
 # Changelog
 
+## DBItest 1.8.2.9008 (2025-11-12)
+
+### Continuous integration
+
+- Import from actions-sync, check carefully
+  ([\#505](https://github.com/r-dbi/DBItest/issues/505)).
+
 ## DBItest 1.8.2.9007 (2025-11-10)
 
 ### Continuous integration
