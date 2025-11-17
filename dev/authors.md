@@ -16,12 +16,12 @@ Source:
 [`DESCRIPTION`](https://github.com/r-dbi/DBItest/blob/main/DESCRIPTION)
 
 Müller K (2025). *DBItest: Testing DBI Backends*. R package version
-1.8.2.9008, <https://dbitest.r-dbi.org>.
+1.8.2.9009, <https://dbitest.r-dbi.org>.
 
     @Manual{,
       title = {DBItest: Testing DBI Backends},
       author = {Kirill Müller},
       year = {2025},
-      note = {R package version 1.8.2.9008},
+      note = {R package version 1.8.2.9009},
       url = {https://dbitest.r-dbi.org},
     }
