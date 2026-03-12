@@ -1,5 +1,12 @@
 # Changelog
 
+## DBItest 1.8.2.9013 (2026-03-12)
+
+### Chore
+
+- Auto-update from GitHub Actions
+  ([\#517](https://github.com/r-dbi/DBItest/issues/517)).
+
 ## DBItest 1.8.2.9012 (2026-03-08)
 
 ### Chore
