@@ -94,7 +94,7 @@ make_context(
 #> <DBIConnector><SQLiteDriver>
 #> Arguments:
 #> $dbname
-#> [1] "/tmp/Rtmp9kr2wa/DBItest25986fcd4985.sqlite"
+#> [1] "/tmp/RtmpU3Tezr/DBItest27814e440939.sqlite"
 #> 
 #> 
 #> $drv
